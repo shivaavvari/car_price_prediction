@@ -39,7 +39,7 @@ pytz==2020.1
 requests==2.24.0
 resampy==0.2.2
 s3transfer==0.3.3
-scikit-learn==0.22.2.post1
+scikit-learn
 scipy
 six==1.15.0
 sklearn==0.0
